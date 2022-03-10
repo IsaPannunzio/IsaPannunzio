@@ -37,10 +37,7 @@
 <div>
   <a href="https://www.linkedin.com/in/isabella-montejano-pannunzio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:isabellamenato1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/isa_menato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br> 
-  
-![Snake animation](https://github.com/IsaPannunzio/IsaPannunzio/blob/output/github-contribution-grid-snake.svg)
-  
+  <a href="https://instagram.com/isa_menato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 
