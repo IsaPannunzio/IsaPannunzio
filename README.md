@@ -2,7 +2,7 @@
 ##
 
 
-🌎 I speak: Portuguese, English and Spanish
+🌎 I speak portuguese, english and spanish
 
 👩🏼‍💻 I work with back-end
 
